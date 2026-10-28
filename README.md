@@ -8,7 +8,7 @@ I explain how Android and Kotlin work under the hood: one concept at a time, tes
 - 📜 Co-inventor on **[US Patent 12,592,977](https://patents.google.com/patent/US12592977)** (push-to-talk session control).
 - 🤖 Interested in AI-assisted engineering: using agents on large, tedious Android work like SDK upgrades.
 
-📝 **Latest post:** [AI Can Write My Kotlin. Who's Going to Debug It at 2 AM?](https://imayankkumar.com/blog/ai-can-write-my-kotlin/)
+📝 **Latest post:** [AI Can Write My Kotlin. Who's Going to Debug It at 2 AM?](https://imayankkumar.com/blog/ai-can-write-my-kotlin/) [![Featured in Android Weekly #750](https://androidweekly.net/issues/issue-750/badge)](https://androidweekly.net/issues/issue-750)
 
 **Kotlin · Java · Android SDK · Jetpack · Coroutines & Flow · Clean Architecture · Rendering performance**
 
