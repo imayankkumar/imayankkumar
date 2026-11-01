@@ -9,7 +9,7 @@ I explain how Android and Kotlin work under the hood: one concept at a time, tes
 - 🤖 Interested in AI-assisted engineering: using agents on large, tedious Android work like SDK upgrades.
 
 📝 **Recent posts**
-- [Android Developer Roadmap 2027: What to Learn, What Interviews Ask, and Where AI Fits](https://imayankkumar.com/blog/android-developer-roadmap-2027/)
+- [Android Developer Roadmap 2027: What to Learn, What Interviews Ask, and Where AI Fits](https://imayankkumar.com/blog/android-developer-roadmap-2027/) [![Featured in Android Weekly #751](https://androidweekly.net/issues/issue-751/badge)](https://androidweekly.net/issues/issue-751)
 - [AI Can Write My Kotlin. Who's Going to Debug It at 2 AM?](https://imayankkumar.com/blog/ai-can-write-my-kotlin/) [![Featured in Android Weekly #750](https://androidweekly.net/issues/issue-750/badge)](https://androidweekly.net/issues/issue-750)
 
 **Kotlin · Java · Android SDK · Jetpack · Coroutines & Flow · Clean Architecture · Rendering performance**
