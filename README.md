@@ -10,8 +10,10 @@ I explain how Android and Kotlin work under the hood: one concept at a time, tes
 
 📝 **Recent posts**
 - [Kotlin Any, Unit and Nothing Explained Simply](https://imayankkumar.com/blog/kotlin-any-unit-nothing/)
-- [Kotlin Null Safety Explained Simply: ?, ?., ?:, !! and Platform Types](https://imayankkumar.com/blog/kotlin-null-safety/) [![Featured in Android Weekly #752](https://androidweekly.net/issues/issue-752/badge)](https://androidweekly.net/issues/issue-752)
-- [Android Developer Roadmap 2027: What to Learn, What Interviews Ask, and Where AI Fits](https://imayankkumar.com/blog/android-developer-roadmap-2027/) [![Featured in Android Weekly #751](https://androidweekly.net/issues/issue-751/badge)](https://androidweekly.net/issues/issue-751)
+- [Kotlin Null Safety Explained Simply: ?, ?., ?:, !! and Platform Types](https://imayankkumar.com/blog/kotlin-null-safety/)
+- [Android Developer Roadmap 2027: What to Learn, What Interviews Ask, and Where AI Fits](https://imayankkumar.com/blog/android-developer-roadmap-2027/)
+
+⭐ Featured in Android Weekly 3 times, latest [issue 752](https://androidweekly.net/issues/issue-752)
 
 **Kotlin · Java · Android SDK · Jetpack · Coroutines & Flow · Clean Architecture · Rendering performance**
 
