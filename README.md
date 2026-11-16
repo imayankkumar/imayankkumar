@@ -9,9 +9,9 @@ I explain how Android and Kotlin work under the hood: one concept at a time, tes
 - 🤖 Interested in AI-assisted engineering: using agents on large, tedious Android work like SDK upgrades.
 
 📝 **Recent posts**
-- [Kotlin Data Class vs Regular Class Explained Simply](https://imayankkumar.com/blog/kotlin-data-class/)
-- [Kotlin Any, Unit and Nothing Explained Simply](https://imayankkumar.com/blog/kotlin-any-unit-nothing/)
-- [Kotlin Null Safety Explained Simply: ?, ?., ?:, !! and Platform Types](https://imayankkumar.com/blog/kotlin-null-safety/)
+- [When Should You Use a Sealed Class in Kotlin?](https://imayankkumar.com/blog/kotlin-sealed-class/)
+- [When Should a Kotlin Class Be a Data Class?](https://imayankkumar.com/blog/kotlin-data-class/)
+- [What Do Any, Unit and Nothing Mean in Kotlin?](https://imayankkumar.com/blog/kotlin-any-unit-nothing/)
 
 ⭐ Featured in Android Weekly 3 times, latest [issue 752](https://androidweekly.net/issues/issue-752)
 
