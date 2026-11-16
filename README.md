@@ -13,7 +13,7 @@ I explain how Android and Kotlin work under the hood: one concept at a time, tes
 - [When Should a Kotlin Class Be a Data Class?](https://imayankkumar.com/blog/kotlin-data-class/)
 - [What Do Any, Unit and Nothing Mean in Kotlin?](https://imayankkumar.com/blog/kotlin-any-unit-nothing/)
 
-⭐ Featured in Android Weekly 3 times, latest [issue 752](https://androidweekly.net/issues/issue-752)
+⭐ Featured in Android Weekly 4 times, latest [issue 753](https://androidweekly.net/issues/issue-753)
 
 **Kotlin · Java · Android SDK · Jetpack · Coroutines & Flow · Clean Architecture · Rendering performance**
 
