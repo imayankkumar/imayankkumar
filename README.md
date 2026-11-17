@@ -9,9 +9,9 @@ I explain how Android and Kotlin work under the hood: one concept at a time, tes
 - 🤖 Interested in AI-assisted engineering: using agents on large, tedious Android work like SDK upgrades.
 
 📝 **Recent posts**
+- [Inner vs Nested Class in Kotlin: What Is the Difference?](https://imayankkumar.com/blog/kotlin-inner-vs-nested-class/)
 - [When Should You Use a Sealed Class in Kotlin?](https://imayankkumar.com/blog/kotlin-sealed-class/)
 - [When Should a Kotlin Class Be a Data Class?](https://imayankkumar.com/blog/kotlin-data-class/)
-- [What Do Any, Unit and Nothing Mean in Kotlin?](https://imayankkumar.com/blog/kotlin-any-unit-nothing/)
 
 ⭐ Featured in Android Weekly 4 times, latest [issue 753](https://androidweekly.net/issues/issue-753)
 
